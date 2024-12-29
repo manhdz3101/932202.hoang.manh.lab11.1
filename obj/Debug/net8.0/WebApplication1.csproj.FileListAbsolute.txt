@@ -1,0 +1,68 @@
+E:\ТГУ\3 Курс\Web Dev\Lab11\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+E:\ТГУ\3 Курс\Web Dev\Lab11\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.AssemblyInfoInputs.cache
+E:\ТГУ\3 Курс\Web Dev\Lab11\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.AssemblyInfo.cs
+E:\ТГУ\3 Курс\Web Dev\Lab11\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.csproj.CoreCompileInputs.cache
+E:\ТГУ\3 Курс\Web Dev\Lab11\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+E:\ТГУ\3 Курс\Web Dev\Lab11\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.RazorAssemblyInfo.cache
+E:\ТГУ\3 Курс\Web Dev\Lab11\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.RazorAssemblyInfo.cs
+E:\ТГУ\3 Курс\Web Dev\Lab11\WebApplication1\WebApplication1\bin\Debug\net8.0\appsettings.Development.json
+E:\ТГУ\3 Курс\Web Dev\Lab11\WebApplication1\WebApplication1\bin\Debug\net8.0\appsettings.json
+E:\ТГУ\3 Курс\Web Dev\Lab11\WebApplication1\WebApplication1\bin\Debug\net8.0\WebApplication1.staticwebassets.runtime.json
+E:\ТГУ\3 Курс\Web Dev\Lab11\WebApplication1\WebApplication1\bin\Debug\net8.0\WebApplication1.staticwebassets.endpoints.json
+E:\ТГУ\3 Курс\Web Dev\Lab11\WebApplication1\WebApplication1\bin\Debug\net8.0\WebApplication1.exe
+E:\ТГУ\3 Курс\Web Dev\Lab11\WebApplication1\WebApplication1\bin\Debug\net8.0\WebApplication1.deps.json
+E:\ТГУ\3 Курс\Web Dev\Lab11\WebApplication1\WebApplication1\bin\Debug\net8.0\WebApplication1.runtimeconfig.json
+E:\ТГУ\3 Курс\Web Dev\Lab11\WebApplication1\WebApplication1\bin\Debug\net8.0\WebApplication1.dll
+E:\ТГУ\3 Курс\Web Dev\Lab11\WebApplication1\WebApplication1\bin\Debug\net8.0\WebApplication1.pdb
+E:\ТГУ\3 Курс\Web Dev\Lab11\WebApplication1\WebApplication1\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\ТГУ\3 Курс\Web Dev\Lab11\WebApplication1\WebApplication1\obj\Debug\net8.0\scopedcss\bundle\WebApplication1.styles.css
+E:\ТГУ\3 Курс\Web Dev\Lab11\WebApplication1\WebApplication1\obj\Debug\net8.0\scopedcss\projectbundle\WebApplication1.bundle.scp.css
+E:\ТГУ\3 Курс\Web Dev\Lab11\WebApplication1\WebApplication1\obj\Debug\net8.0\staticwebassets.build.json
+E:\ТГУ\3 Курс\Web Dev\Lab11\WebApplication1\WebApplication1\obj\Debug\net8.0\staticwebassets.development.json
+E:\ТГУ\3 Курс\Web Dev\Lab11\WebApplication1\WebApplication1\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\ТГУ\3 Курс\Web Dev\Lab11\WebApplication1\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props
+E:\ТГУ\3 Курс\Web Dev\Lab11\WebApplication1\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\ТГУ\3 Курс\Web Dev\Lab11\WebApplication1\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.build.WebApplication1.props
+E:\ТГУ\3 Курс\Web Dev\Lab11\WebApplication1\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication1.props
+E:\ТГУ\3 Курс\Web Dev\Lab11\WebApplication1\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebApplication1.props
+E:\ТГУ\3 Курс\Web Dev\Lab11\WebApplication1\WebApplication1\obj\Debug\net8.0\staticwebassets.pack.json
+E:\ТГУ\3 Курс\Web Dev\Lab11\WebApplication1\WebApplication1\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+E:\ТГУ\3 Курс\Web Dev\Lab11\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.dll
+E:\ТГУ\3 Курс\Web Dev\Lab11\WebApplication1\WebApplication1\obj\Debug\net8.0\refint\WebApplication1.dll
+E:\ТГУ\3 Курс\Web Dev\Lab11\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.pdb
+E:\ТГУ\3 Курс\Web Dev\Lab11\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.genruntimeconfig.cache
+E:\ТГУ\3 Курс\Web Dev\Lab11\WebApplication1\WebApplication1\obj\Debug\net8.0\ref\WebApplication1.dll
+E:\WebApplication1\WebApplication1\bin\Debug\net8.0\appsettings.Development.json
+E:\WebApplication1\WebApplication1\bin\Debug\net8.0\appsettings.json
+E:\WebApplication1\WebApplication1\bin\Debug\net8.0\WebApplication1.staticwebassets.endpoints.json
+E:\WebApplication1\WebApplication1\bin\Debug\net8.0\WebApplication1.staticwebassets.runtime.json
+E:\WebApplication1\WebApplication1\bin\Debug\net8.0\WebApplication1.exe
+E:\WebApplication1\WebApplication1\bin\Debug\net8.0\WebApplication1.deps.json
+E:\WebApplication1\WebApplication1\bin\Debug\net8.0\WebApplication1.runtimeconfig.json
+E:\WebApplication1\WebApplication1\bin\Debug\net8.0\WebApplication1.dll
+E:\WebApplication1\WebApplication1\bin\Debug\net8.0\WebApplication1.pdb
+E:\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+E:\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.AssemblyInfoInputs.cache
+E:\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.AssemblyInfo.cs
+E:\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.csproj.CoreCompileInputs.cache
+E:\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+E:\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.RazorAssemblyInfo.cache
+E:\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.RazorAssemblyInfo.cs
+E:\WebApplication1\WebApplication1\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\WebApplication1\WebApplication1\obj\Debug\net8.0\scopedcss\bundle\WebApplication1.styles.css
+E:\WebApplication1\WebApplication1\obj\Debug\net8.0\scopedcss\projectbundle\WebApplication1.bundle.scp.css
+E:\WebApplication1\WebApplication1\obj\Debug\net8.0\staticwebassets.build.json
+E:\WebApplication1\WebApplication1\obj\Debug\net8.0\staticwebassets.development.json
+E:\WebApplication1\WebApplication1\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\WebApplication1\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props
+E:\WebApplication1\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\WebApplication1\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.build.WebApplication1.props
+E:\WebApplication1\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication1.props
+E:\WebApplication1\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebApplication1.props
+E:\WebApplication1\WebApplication1\obj\Debug\net8.0\staticwebassets.pack.json
+E:\WebApplication1\WebApplication1\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+E:\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.dll
+E:\WebApplication1\WebApplication1\obj\Debug\net8.0\refint\WebApplication1.dll
+E:\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.pdb
+E:\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.genruntimeconfig.cache
+E:\WebApplication1\WebApplication1\obj\Debug\net8.0\ref\WebApplication1.dll
